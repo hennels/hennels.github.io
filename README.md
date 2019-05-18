@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-Below is a listing of my current and previous works in reverse chronological order. While I currently work in the areas of computer vision and robotics, my undergraduate education was in physics so the oldest entries in each category are slightly different than the more recent works.
+Below is a listing of my current and previous works in reverse chronological order. While I currently work in the areas of computer vision and robotics, my undergraduate education was in physics so the oldest entries are in a slightly different than the more recent works.
 
 ### Projects and Publications
 
