@@ -14,7 +14,7 @@ Below is a listing of my current and previous works in reverse chronological ord
   
 - **Frustrated Total Internal Reflection**  
   _Henry Nelson_  
-  May 2017. [Paper](publications/pspers/Evanescent_Microwaves.pdf)
+  May 2017. [Paper](publications/papers/Evanescent_Microwaves.pdf)
 
 - **Frustrated Total Internal Reflection with Microwaves**  
   _Andrew Baldrige, Henry Nelson_  
@@ -22,7 +22,7 @@ Below is a listing of my current and previous works in reverse chronological ord
 
 - **An Exploration of Optical Correlators**  
   _Henry Nelson_  
-  May 2016. [Paper](publications/pspers/FraunhofferConvolution.pdf)
+  May 2016. [Paper](publications/papers/FraunhofferConvolution.pdf)
 
 ### Résumé/CV
 
