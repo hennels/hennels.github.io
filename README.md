@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/hennels/hennels.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Below is a listing of my current and previous works in reverse chronological order. While I currently work in the areas of computer vision and robotics, my undergraduate education was in physics so the oldest entries in each category are slightly different than the more recent works.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects and Publications
 
-### Markdown
+- **Weed Detection and Classification in High Altitude Aerial Images**  
+  _Karthik Buddha, Henry Nelson, Dimitris Zermas, Nikolaos Papanikolopoulos_  
+  May 2019. Paper appearing at MED '19, [Poster](publications/posters/weedpipeline.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Academic and Industrial Collaboration on Precision Agriculture Research**  
+  _Dimitris Zermas, Henry Nelson, Karthik Buddha, Vassilios Morellas, Eric Taipale, Nikolaos Papanikolopoulos_  
+  August 2018. [Poster](publications/posters/MnCGA2018.pdf)
+  
+- **Frustrated Total Internal Reflection**  
+  _Henry Nelson_  
+  May 2017. [Paper](publications/pspers/Evanescent_Microwaves.pdf)
 
-```markdown
-Syntax highlighted code block
+- **Frustrated Total Internal Reflection with Microwaves**  
+  _Andrew Baldrige, Henry Nelson_  
+  April 2017. [Poster](publications/posters/EvanescentMicrowaves.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+- **An Exploration of Optical Correlators**  
+  _Henry Nelson_  
+  May 2016. [Paper](publications/pspers/FraunhofferConvolution.pdf)
 
-- Bulleted
-- List
+### Résumé/CV
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hennels/hennels.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Coming soon
