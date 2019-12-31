@@ -26,4 +26,4 @@ Below is a listing of my current and previous works in reverse chronological ord
 
 ### Résumé/CV
 
-[Résumé](resume.pdf) as of May 2019
+[Résumé](resume.pdf) as of December 2019
