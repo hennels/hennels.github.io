@@ -6,7 +6,8 @@ Below is a listing of my current and previous works in reverse chronological ord
 
 - **Weed Detection and Classification in High Altitude Aerial Images**  
   _Karthik Buddha, Henry Nelson, Dimitris Zermas, Nikolaos Papanikolopoulos_  
-  May 2019. Paper appearing at MED '19, [Poster](publications/posters/weedpipeline.pdf)
+  May 2019. MED '19.  
+  [Poster](publications/posters/weedpipeline.pdf) DOI: [10.1109/MED.2019.8798582](https://doi-org.ezp1.lib.umn.edu/10.1109/MED.2019.8798582)
 
 - **Academic and Industrial Collaboration on Precision Agriculture Research**  
   _Dimitris Zermas, Henry Nelson, Karthik Buddha, Vassilios Morellas, Eric Taipale, Nikolaos Papanikolopoulos_  
