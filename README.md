@@ -2,6 +2,10 @@
 
 Below is a listing of my current and previous works in reverse chronological order. While I currently work in the areas of computer vision and robotics, my undergraduate education was in physics so the oldest entries are slightly different than the more recent works.
 
+### Résumé/CV
+
+[Résumé](resume.pdf) as of December 2019
+
 ### Projects and Publications
 
 - **Weed Detection and Classification in High Altitude Aerial Images**  
@@ -24,7 +28,3 @@ Below is a listing of my current and previous works in reverse chronological ord
 - **An Exploration of Optical Correlators**  
   _Henry Nelson_  
   May 2016. [Paper](publications/papers/FraunhofferConvolution.pdf)
-
-### Résumé/CV
-
-[Résumé](resume.pdf) as of December 2019
