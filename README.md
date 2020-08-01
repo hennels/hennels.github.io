@@ -2,6 +2,8 @@
 
 Below is a listing of my current and previous works in reverse chronological order. While I currently work in the areas of computer vision and robotics, my undergraduate education was in physics so the oldest entries are slightly different than the more recent works.
 
+I also use this site to host [temperature data](https://henryjnelson.com/lakeTemp) for personal use.
+
 ### Résumé/CV
 
 [Résumé](resume.pdf) as of July 2020
