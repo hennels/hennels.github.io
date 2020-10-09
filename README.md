@@ -16,11 +16,11 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 - **A Methodology for the Detection of Nitrogen Deficiency in Corn Fields Using High Resolution RGB Imagery**  
   _Dimitris Zermas, Henry J. Nelson, Panagiotis Stanitsas, Vassilios Morellas, David J. Mulla, and Nikolaos Papanikolopoulos_  
-  Accepted, TASE.
+  October 2020. TASE 2020. DOI: [10.1109/TASE.2020.3022868](https://doi.org/10.1109/TASE.2020.3022868)
 
 - **Weed Detection and Classification in High Altitude Aerial Images**  
   _Karthik Buddha, Henry Nelson, Dimitris Zermas, Nikolaos Papanikolopoulos_  
-  May 2019. MED 2019. [Poster](publications/posters/weedpipeline.pdf) DOI: [10.1109/MED.2019.8798582](https://doi-org.ezp1.lib.umn.edu/10.1109/MED.2019.8798582)
+  May 2019. MED 2019. [Poster](publications/posters/weedpipeline.pdf) DOI: [10.1109/MED.2019.8798582](https://doi.org/10.1109/MED.2019.8798582)
 
 - **Academic and Industrial Collaboration on Precision Agriculture Research**  
   _Dimitris Zermas, Henry Nelson, Karthik Buddha, Vassilios Morellas, Eric Taipale, Nikolaos Papanikolopoulos_  
