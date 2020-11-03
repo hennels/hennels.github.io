@@ -6,13 +6,17 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 ### Résumé/CV
 
-[Résumé](resume.pdf) as of October 2020
+[Résumé](resume.pdf) as of November 2020
 
 ### Projects and Publications
 
+- **Scalable Methods for Pre-Clustering Point Clouds of Crop Fields**  
+  _Henry J. Nelson and Nikolaos Papanikolopoulos_  
+  Submitted, ICRA 2021. [Github](https://github.com/hennels/CropPreClustering)
+
 - **Learning Continuous Object Representations from Point Cloud Data**  
   _Henry J. Nelson and Nikolaos Papanikolopoulos_  
-  Accepted, IROS 2020.
+  Published, IROS 2020.
 
 - **A Methodology for the Detection of Nitrogen Deficiency in Corn Fields Using High Resolution RGB Imagery**  
   _Dimitris Zermas, Henry J. Nelson, Panagiotis Stanitsas, Vassilios Morellas, David J. Mulla, and Nikolaos Papanikolopoulos_  
