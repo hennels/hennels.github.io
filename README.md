@@ -16,7 +16,7 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 - **Learning Continuous Object Representations from Point Cloud Data**  
   _Henry J. Nelson and Nikolaos Papanikolopoulos_  
-  Published, IROS 2020.
+  Published, IROS 2020. DOI: [10.1109/IROS45743.2020.9341765](https://doi.org/10.1109/IROS45743.2020.9341765)
 
 - **A Methodology for the Detection of Nitrogen Deficiency in Corn Fields Using High Resolution RGB Imagery**  
   _Dimitris Zermas, Henry J. Nelson, Panagiotis Stanitsas, Vassilios Morellas, David J. Mulla, and Nikolaos Papanikolopoulos_  
