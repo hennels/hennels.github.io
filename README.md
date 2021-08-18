@@ -12,14 +12,15 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 - **Scalable Methods for Pre-Clustering Point Clouds of Crop Fields**  
   _Henry J. Nelson and Nikolaos Papanikolopoulos_  
-  Submitted, ICRA 2021. [Github](https://github.com/hennels/CropPreClustering)
+  Submitted. [Paper](https://arxiv.org/pdf/2107.10950.pdf) and [Code](https://github.com/hennels/CropPreClustering)
 
 - **Learning Continuous Object Representations from Point Cloud Data**  
   _Henry J. Nelson and Nikolaos Papanikolopoulos_  
-  Published, IROS 2020. DOI: [10.1109/IROS45743.2020.9341765](https://doi.org/10.1109/IROS45743.2020.9341765)
+  IROS 2020. DOI: [10.1109/IROS45743.2020.9341765](https://doi.org/10.1109/IROS45743.2020.9341765)
 
 - **A Methodology for the Detection of Nitrogen Deficiency in Corn Fields Using High Resolution RGB Imagery**  
   _Dimitris Zermas, Henry J. Nelson, Panagiotis Stanitsas, Vassilios Morellas, David J. Mulla, and Nikolaos Papanikolopoulos_  
+  August 2021. CASE 2021. Presentation (video coming soon)  
   October 2020. TASE 2020. DOI: [10.1109/TASE.2020.3022868](https://doi.org/10.1109/TASE.2020.3022868)
 
 - **Weed Detection and Classification in High Altitude Aerial Images**  
