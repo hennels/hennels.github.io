@@ -6,7 +6,7 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 ### Résumé/CV
 
-[Résumé](resume.pdf) as of August 2021
+[Résumé](resume.pdf) as of July 2022
 
 ### Projects and Publications
 
