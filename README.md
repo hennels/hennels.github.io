@@ -1,14 +1,12 @@
-## Welcome to my website
-
-Below is a listing of my current and previous works in reverse chronological order. While I currently work in the areas of computer vision and robotics, my undergraduate education was in physics so the oldest entries are slightly different than the more recent works.
+Below is my résumé and a listing of my current and previous works in reverse chronological order. While I currently work in the areas of computer vision and robotics, my undergraduate education was in physics so the oldest entries are slightly different than the more recent works.
 
 I also use this site to host [temperature data](https://henryjnelson.com/lakeTemp) for personal use.
 
-### Résumé/CV
+## Résumé/CV
 
 [Résumé](resume.pdf) as of July 2022
 
-### Projects and Publications
+## Projects and Publications
 
 - **View Planning Using Discrete Optimization for 3D Reconstruction of Row Crops**  
   _Athanasios Bacharis, Henry J. Nelson and Nikolaos Papanikolopoulos_  
