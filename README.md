@@ -14,11 +14,12 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 - **View Planning Using Discrete Optimization for 3D Reconstruction of Row Crops**  
   _Athanasios Bacharis, Henry J. Nelson and Nikolaos Papanikolopoulos_  
-  IROS 2022. DOI: [10.1109/IROS47612.2022.9981209](https://doi-org.ezp3.lib.umn.edu/10.1109/IROS47612.2022.9981209)
+  IROS 2022. DOI: [10.1109/IROS47612.2022.9981209](https://doi.org/10.1109/IROS47612.2022.9981209)
 
 - **Scalable Methods for Pre-Clustering Point Clouds of Crop Fields**  
   _Henry J. Nelson and Nikolaos Papanikolopoulos_  
-  Submitted. [Paper](https://arxiv.org/pdf/2107.10950.pdf) and [Code](https://github.com/hennels/CropPreClustering)
+  Submitted. [Paper](https://arxiv.org/pdf/2107.10950.pdf) and [Code](https://github.com/hennels/CropPreClustering) DOI: [10.48550/arXiv.2107.10950]( 	
+https://doi.org/10.48550/arXiv.2107.10950)
 
 - **Learning Continuous Object Representations from Point Cloud Data**  
   _Henry J. Nelson and Nikolaos Papanikolopoulos_  
