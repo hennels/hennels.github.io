@@ -10,7 +10,7 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 - **Robust Plant Localization and Phenotyping in Dense 3D Point Clouds for Precision Agriculture**  
   _Henry J. Nelson, Christopher E. Smith, Athanasios Bacharis, and Nikolaos Papanikolopoulos_  
-  ICRA 2023.
+  ICRA 2023. DOI: [10.1109/ICRA48891.2023.10161078](https://doi.org/10.1109/ICRA48891.2023.10161078)
 
 - **View Planning Using Discrete Optimization for 3D Reconstruction of Row Crops**  
   _Athanasios Bacharis, Henry J. Nelson and Nikolaos Papanikolopoulos_  
