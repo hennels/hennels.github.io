@@ -4,9 +4,13 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 ## Résumé/CV
 
-[Résumé](resume.pdf) as of January 2023
+My most current [Résumé](resume.pdf) as of May 2024
 
 ## Projects and Publications
+
+- **Ground-Density Clustering for Approximate Agricultural Field Segmentation**  
+  _Henry J. Nelson and Nikolaos Papanikolopoulos_  
+  IROS 2024. DOI: [10.1109/IROS58592.2024.10802415](https://doi.org/10.1109/IROS58592.2024.10802415)
 
 - **Robust Plant Localization and Phenotyping in Dense 3D Point Clouds for Precision Agriculture**  
   _Henry J. Nelson, Christopher E. Smith, Athanasios Bacharis, and Nikolaos Papanikolopoulos_  
@@ -18,7 +22,7 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 - **Scalable Methods for Pre-Clustering Point Clouds of Crop Fields**  
   _Henry J. Nelson and Nikolaos Papanikolopoulos_  
-  Submitted. [Paper](https://arxiv.org/pdf/2107.10950.pdf) and [Code](https://github.com/hennels/CropPreClustering) DOI: [10.48550/arXiv.2107.10950]( 	
+  ArXiv [Paper](https://arxiv.org/pdf/2107.10950.pdf) and [Code](https://github.com/hennels/CropPreClustering) DOI: [10.48550/arXiv.2107.10950]( 	
 https://doi.org/10.48550/arXiv.2107.10950)
 
 - **Learning Continuous Object Representations from Point Cloud Data**  
@@ -27,8 +31,7 @@ https://doi.org/10.48550/arXiv.2107.10950)
 
 - **A Methodology for the Detection of Nitrogen Deficiency in Corn Fields Using High Resolution RGB Imagery**  
   _Dimitris Zermas, Henry J. Nelson, Panagiotis Stanitsas, Vassilios Morellas, David J. Mulla, and Nikolaos Papanikolopoulos_  
-  CASE 2021. Presentation (video coming soon)  
-  TASE 2020. DOI: [10.1109/TASE.2020.3022868](https://doi.org/10.1109/TASE.2020.3022868)
+  TASE 2020 and CASE 2021. DOI: [10.1109/TASE.2020.3022868](https://doi.org/10.1109/TASE.2020.3022868)
 
 - **Weed Detection and Classification in High Altitude Aerial Images**  
   _Karthik Buddha, Henry Nelson, Dimitris Zermas, Nikolaos Papanikolopoulos_  
