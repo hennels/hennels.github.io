@@ -4,9 +4,13 @@ I also use this site to host [temperature data](https://henryjnelson.com/lakeTem
 
 ## Résumé/CV
 
-My most current [Résumé](resume.pdf) as of May 2024
+My most current [Résumé](resume.pdf) as of May 2026
 
 ## Projects and Publications
+
+- **Efficient 3D Reconstruction in Noisy Agricultural Environments: A Bayesian Optimization Perspective for View Planning**  
+  _Athanasios Bacharis, Konstantinos D. Polyzos, Henry J. Nelson, Georgios B. Giannakis, Nikolaos Papanikolopoulos_  
+  Robotics and Automation Letters. DOI: [10.1109/LRA.2025.3625501](https://doi.org/10.1109/LRA.2025.3625501)
 
 - **Ground-Density Clustering for Approximate Agricultural Field Segmentation**  
   _Henry J. Nelson and Nikolaos Papanikolopoulos_  
